@@ -8,9 +8,9 @@ All blogs are publicly accessible and beginner-friendly.
 
 ## 🧩 Git Blogs
 
-1. [Git for Beginners: Basics and Essential Commands](https://git-beginners-basic-essential.hashnode.dev/git-for-beginners-basics-and-essential-commands?showSharer=true)
+1. [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/debashis_das_4deca65ec224/inside-git-how-its-works-and-the-role-of-the-git-folder-1g8g)
 
-2. [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/debashis_das_4deca65ec224/inside-git-how-its-works-and-the-role-of-the-git-folder-1g8g)
+2. [Git for Beginners: Basics and Essential Commands](https://git-beginners-basic-essential.hashnode.dev/git-for-beginners-basics-and-essential-commands?showSharer=true)
 
 3. [Why Version Control Exists: The Pendrive Problem](https://dev.to/debashis_das_4deca65ec224/why-version-control-exists-the-pendrive-problem-l36)
 
