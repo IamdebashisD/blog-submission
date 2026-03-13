@@ -1,0 +1,29 @@
+# JavaScript Blogs Submission
+
+This repository contains links to all my published blogs written for the MasterJi assignment.
+All blogs are publicly accessible and beginner-friendly.
+
+---
+
+
+# 🟨 JavaScript Blogs
+
+1. [Understanding Variables and Data Types in JavaScript](https://blog-understanding-variable-data-typescom.hashnode.dev/understanding-variables-and-data-types-in-javascript-beginner-guide)
+
+2. [JavaScript Operators: The Basics You Need to Know](https://debashis-das-javascript-operators-dev.hashnode.dev/javascript-operators-the-magic-behind-the-code)
+
+3. [Control Flow in JavaScript: If, Else, and Switch Explained](https://how-javascript-thinks-mastering-if-else-and-switch.hashnode.dev/control-flow-in-javascript-if-else-and-switch-explained)
+
+4. [Function Declaration vs Function Expression: What’s the Difference?](https://function-declaration-vs-function-expression.hashnode.dev/function-declaration-vs-function-expression-the-hidden-personality-of-javascript-functions)
+
+5. [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://arrow-functions-in-javascript-simpler-way-to-write-functions.hashnode.dev/arrow-functions-in-javascript-a-simpler-way-to-write-functions)
+
+6. [JavaScript Arrays 101](https://the-magic-basket-of-javascript-understanding-arrays.hashnode.dev/javascript-arrays-101)
+
+7. [Array Methods You Must Know](https://array-methods-you-must-know-haradhan.hashnode.dev/array-methods-you-must-know-if-you-re-learning-javascript)
+
+8. [Understanding Objects in JavaScript](https://understanding-objects-in-javascript-begginer-friendly-guide.hashnode.dev/understanding-objects-in-javascript)
+
+9. [The Magic of this, call(), apply(), and bind() in JavaScript](https://themagic-of-this-call-apply-and-bind-in-javascript.hashnode.dev/javascript-this-call-apply-bind-explained)
+
+10. [Understanding Object-Oriented Programming in JavaScript](https://understanding-object-oriented-programming.hashnode.dev/javascript-object-oriented-programming-for-beginners)
