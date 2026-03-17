@@ -27,3 +27,11 @@ All blogs are publicly accessible and beginner-friendly.
 9. [The Magic of this, call(), apply(), and bind() in JavaScript](https://themagic-of-this-call-apply-and-bind-in-javascript.hashnode.dev/javascript-this-call-apply-bind-explained)
 
 10. [Understanding Object-Oriented Programming in JavaScript](https://understanding-object-oriented-programming.hashnode.dev/javascript-object-oriented-programming-for-beginners)
+
+---
+
+11. [JavaScript Modules: Import and Export Explained](https://understanding-javascript-modules-import-and-export-made-simple.hashnode.dev/javascript-modules-import-export-guide)
+
+12. [Array Flatten in JavaScript](https://array-flatten-in-javascript-debashis.hashnode.dev/javascript-array-flatten-guide)
+
+13. [Template Literals in JavaScript](https://template-literals-in-javascript-explained.hashnode.dev/template-literals-in-javascript-explained)
