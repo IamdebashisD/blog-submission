@@ -35,3 +35,5 @@ All blogs are publicly accessible and beginner-friendly.
 12. [Array Flatten in JavaScript](https://array-flatten-in-javascript-debashis.hashnode.dev/javascript-array-flatten-guide)
 
 13. [Template Literals in JavaScript](https://template-literals-in-javascript-explained.hashnode.dev/template-literals-in-javascript-explained)
+
+14. [The new Keyword in JavaScript](https://the-new-key-word-in-javascript.hashnode.dev/javascript-new-keyword-explained)
