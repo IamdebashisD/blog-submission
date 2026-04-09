@@ -37,3 +37,5 @@ All blogs are publicly accessible and beginner-friendly.
 13. [Template Literals in JavaScript](https://template-literals-in-javascript-explained.hashnode.dev/template-literals-in-javascript-explained)
 
 14. [The new Keyword in JavaScript](https://the-new-key-word-in-javascript.hashnode.dev/javascript-new-keyword-explained)
+
+15. [Error Handling in JavaScript: Try, Catch, Finally](https://error-handling-in-javascript-try-catch-finally.hashnode.dev/error-handling-javascript-try-catch-finally-guide)
