@@ -39,3 +39,5 @@ All blogs are publicly accessible and beginner-friendly.
 14. [The new Keyword in JavaScript](https://the-new-key-word-in-javascript.hashnode.dev/javascript-new-keyword-explained)
 
 15. [Error Handling in JavaScript: Try, Catch, Finally](https://error-handling-in-javascript-try-catch-finally.hashnode.dev/error-handling-javascript-try-catch-finally-guide)
+
+16. [Understanding the this Keyword in JavaScript](https://understanding-the-this-key-word-in-javascript.hashnode.dev/understanding-this-keyword-javascript-beginners-guide)
