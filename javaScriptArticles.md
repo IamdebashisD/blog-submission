@@ -41,3 +41,5 @@ All blogs are publicly accessible and beginner-friendly.
 15. [Error Handling in JavaScript: Try, Catch, Finally](https://error-handling-in-javascript-try-catch-finally.hashnode.dev/error-handling-javascript-try-catch-finally-guide)
 
 16. [Understanding the this Keyword in JavaScript](https://understanding-the-this-key-word-in-javascript.hashnode.dev/understanding-this-keyword-javascript-beginners-guide)
+
+17. [Spread vs Rest Operators in JavaScript](https://spread-vs-rest-operators-in-javascripts.hashnode.dev/spread-vs-rest-operators-javascript)
