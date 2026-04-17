@@ -45,3 +45,5 @@ All blogs are publicly accessible and beginner-friendly.
 17. [Spread vs Rest Operators in JavaScript](https://spread-vs-rest-operators-in-javascripts.hashnode.dev/spread-vs-rest-operators-javascript)
 
 18. [Callbacks in JavaScript: Why They Exist](https://callbacks-in-javascript-why-they-exists.hashnode.dev/callbacks-in-javascript-explained)
+
+19. [Destructuring in JavaScript](https://destructuring-in-javascript-begginer-friendly.hashnode.dev/destructuring-in-javascript-explained)
