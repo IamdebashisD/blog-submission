@@ -43,3 +43,5 @@ All blogs are publicly accessible and beginner-friendly.
 16. [Understanding the this Keyword in JavaScript](https://understanding-the-this-key-word-in-javascript.hashnode.dev/understanding-this-keyword-javascript-beginners-guide)
 
 17. [Spread vs Rest Operators in JavaScript](https://spread-vs-rest-operators-in-javascripts.hashnode.dev/spread-vs-rest-operators-javascript)
+
+18. [Callbacks in JavaScript: Why They Exist](https://callbacks-in-javascript-why-they-exists.hashnode.dev/callbacks-in-javascript-explained)
