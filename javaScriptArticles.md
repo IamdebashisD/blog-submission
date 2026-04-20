@@ -47,3 +47,5 @@ All blogs are publicly accessible and beginner-friendly.
 18. [Callbacks in JavaScript: Why They Exist](https://callbacks-in-javascript-why-they-exists.hashnode.dev/callbacks-in-javascript-explained)
 
 19. [Destructuring in JavaScript](https://destructuring-in-javascript-begginer-friendly.hashnode.dev/destructuring-in-javascript-explained)
+
+20. [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://async-await-in-javascript.hashnode.dev/async-await-in-javascript-explained)
