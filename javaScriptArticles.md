@@ -49,3 +49,5 @@ All blogs are publicly accessible and beginner-friendly.
 19. [Destructuring in JavaScript](https://destructuring-in-javascript-begginer-friendly.hashnode.dev/destructuring-in-javascript-explained)
 
 20. [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://async-await-in-javascript.hashnode.dev/async-await-in-javascript-explained)
+
+21. [Synchronous vs Asynchronous JavaScript](https://synchronous-vs-asynchronous-javascript.hashnode.dev/synchronous-vs-asynchronous-javascript)
