@@ -51,3 +51,5 @@ All blogs are publicly accessible and beginner-friendly.
 20. [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://async-await-in-javascript.hashnode.dev/async-await-in-javascript-explained)
 
 21. [Synchronous vs Asynchronous JavaScript](https://synchronous-vs-asynchronous-javascript.hashnode.dev/synchronous-vs-asynchronous-javascript)
+
+22. [Map and Set in JavaScript](https://map-and-set-in-javascript-in-efficient-way.hashnode.dev/map-and-set-in-javascript-the-story-of-smarter-data-storage)
